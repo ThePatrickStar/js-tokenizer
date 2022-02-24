@@ -1,0 +1,25 @@
+{
+  "name": "js-tokenizer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePatrickStar/js-tokenizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePatrickStar/js-tokenizer/issues"
+  },
+  "homepage": "https://github.com/ThePatrickStar/js-tokenizer#readme",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "js-tokens": "^7.0.0",
+    "yargs": "^17.3.1"
+  }
+}
